@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "title": "グロービスMBA経営戦略",
+    "genre": "business_basic",
+    "pages": 312,
+    "status": "unread"
+  },
+  {
+    "id": 2,
+    "title": "グロービスMBAマーケティング",
+    "genre": "business_basic",
+    "pages": 296,
+    "status": "unread"
+  },
+  {
+    "id": 3,
+    "title": "ざっくり分かるファイナンス",
+    "genre": "business_basic",
+    "pages": 224,
+    "status": "unread"
+  },
+  {
+    "id": 4,
+    "title": "人事屋が書いた経理の本",
+    "genre": "business_basic",
+    "pages": 230,
+    "status": "unread"
+  },
+  {
+    "id": 5,
+    "title": "問題解決プロフェッショナル",
+    "genre": "business_basic",
+    "pages": 302,
+    "status": "unread"
+  },
+  {
+    "id": 6,
+    "title": "意思決定のための「分析の技術」",
+    "genre": "business_basic",
+    "pages": 263,
+    "status": "current",
+    "current_hp": 263
+  },
+  {
+    "id": 7,
+    "title": "戦略サファリ",
+    "genre": "business_strategy",
+    "pages": 600,
+    "status": "unread",
+    "current_hp": 600
+  },
+  {
+    "id": 8,
+    "title": "イノベーションのジレンマ",
+    "genre": "business_marketing",
+    "pages": 320,
+    "status": "unread"
+  },
+  {
+    "id": 9,
+    "title": "失敗の本質",
+    "genre": "business_organization",
+    "pages": 320,
+    "status": "unread"
+  },
+  {
+    "id": 10,
+    "title": "ビジョナリー・カンパニー2",
+    "genre": "business_organization",
+    "pages": 380,
+    "status": "unread"
+  },
+  {
+    "id": 11,
+    "title": "マネジメント",
+    "genre": "business_leadership",
+    "pages": 300,
+    "status": "unread"
+  },
+  {
+    "id": 12,
+    "title": "決断の本質",
+    "genre": "business_decision",
+    "pages": 400,
+    "status": "unread"
+  },
+  {
+    "id": 13,
+    "title": "ファスト＆スロー",
+    "genre": "business_general",
+    "pages": 450,
+    "status": "unread"
+  },
+  {
+    "id": 14,
+    "title": "企業価値評価",
+    "genre": "business_finance",
+    "pages": 450,
+    "status": "unread"
+  }
+]
+
